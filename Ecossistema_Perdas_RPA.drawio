@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" modified="2023-06-23T17:50:14.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J9vNurC5QZAFXSUZseNS" version="21.2.4" type="github">
+  <diagram name="Página-1" id="L36jsfsPMgU6AJ6wHHCp">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="saCxchDQb4me6zWXgzK3-1" value="PROCESSO DE CÁLCULO DE ENERGIA RETROATIVA POR IRREGULARIDADE - NORDESTE" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" width="1060" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-2" target="saCxchDQb4me6zWXgzK3-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-2" value="IDENTIFICAÇÃO DOS PROCESSOS PENDENTES - DA" style="rounded=1;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="40" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-3" target="saCxchDQb4me6zWXgzK3-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-3" value="COLETAR INFORMAÇÕES IMPRESCINDÍVEIS PARA A ANÁLISE DO PROCESSO - DA" style="rounded=1;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="210" y="60" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="saCxchDQb4me6zWXgzK3-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274.5" y="130" as="sourcePoint" />
+            <mxPoint x="274.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-7" value="COLUNAS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="205" y="220" width="140" height="120" as="geometry">
+            <mxRectangle x="180" y="240" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-8" value="NOTA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-7" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-9" value="CONTA CONTRATO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-7" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-10" value="TOI" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-7" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-11" target="saCxchDQb4me6zWXgzK3-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-11" value="DISTRIBUIR NOTAS PARA RECUPERADORES -RPA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="600" y="60" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-26" value="SIM" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-12" target="saCxchDQb4me6zWXgzK3-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="95" />
+              <mxPoint x="860" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-27" value="NÃO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-12" target="saCxchDQb4me6zWXgzK3-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="805" y="150" />
+              <mxPoint x="805" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-12" value="ROBÔ?" style="rhombus;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="780" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckm7PyqG1l-l4BOM0lt6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-13" target="saCxchDQb4me6zWXgzK3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-13" value="ENVIO PARA COLABORADORES" style="rounded=1;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="745" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-25" target="saCxchDQb4me6zWXgzK3-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-25" value="SEGUE FLUXO DE CÁLCULO DE ENERGIA RETROATIVA - RPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="890" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-32" value="TABELAS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="30" y="220" width="140" height="120" as="geometry">
+            <mxRectangle x="180" y="240" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-33" value="TAB004" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-32" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-34" value="NEO_COR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-32" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-35" value="NEO_PEC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-32" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="saCxchDQb4me6zWXgzK3-1" target="saCxchDQb4me6zWXgzK3-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99.5" y="125" as="sourcePoint" />
+            <mxPoint x="99.5" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="saCxchDQb4me6zWXgzK3-1" source="saCxchDQb4me6zWXgzK3-36" target="saCxchDQb4me6zWXgzK3-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-36" value="COLETAR INFORMAÇÕES DO TOI - RPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="410" y="60" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="saCxchDQb4me6zWXgzK3-39" value="CONSTRUÇÃO DE PLANILHA IPP - DA" style="rounded=1;whiteSpace=wrap;html=1;" parent="saCxchDQb4me6zWXgzK3-1" vertex="1">
+          <mxGeometry x="890" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
